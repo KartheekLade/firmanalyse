@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 
 import json
-import binwalk
+try:
+	import binwalk
+except:
+	os.system("pip3 install binwalk")
+	import binwalk
 import subprocess
 import os
 
@@ -10,29 +14,6 @@ class Firmware():
 		self.firmware_file = firmware_file
 		self.exf = '_'+self.firmware_file+'.extracted'
 		self.analysed_data = {}
-		'''
-		#format of output dict
-		self.analysed_data = {
-
-			"firmware_file":self.firmware_file,
-			"file_size":None,
-			"md5":None,
-			"image_info":{
-				"filesystem_type":None,
-				"kernel_version":None,
-				"arch":None,
-				"vendor_name":None
-			},
-			"binary_file_list":[
-				{
-					name:None,
-					"version":None,
-					"type":None,
-					"permissions":None
-				}
-			]
-		}'''
-
 		self.results = None
 	def extract(self):
 		if os.path.isdir(self.exf):
@@ -47,5 +28,5 @@ class Firmware():
 
 
 if __name__ == "__main__":
-	f = Firmware("ax50v1_intel-up-ver1-0-8-P1[20200426-rel65338]_signed.bin")
-	f.extact()
+	f = Firmware(sys.argv[1])
+	f.smartrun()
