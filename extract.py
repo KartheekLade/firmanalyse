@@ -40,7 +40,7 @@ class Firmware():
 							"filesystem_type":None,
 							"Architecture":None,
 							"OS version":None,
-							"kernal version":None
+							"Kernel version":None
 						},
 			"binary_file_list":[]
 		}
@@ -117,8 +117,8 @@ class Firmware():
 			kvfile = info[-1][0][1][2:]
 			kvrawoutput = subprocess.run(['binwalk',f'{self.exf}/{kvfile}'], stdout=subprocess.PIPE).stdout.decode('utf-8')
 			kvrawoutput = kvrawoutput.split()
-			kernal_version = kvrawoutput[kvrawoutput.index('kernel')+2]
-			self.analysed_data["image_info"]["kernal version"] = kernal_version
+			kernel_version = kvrawoutput[kvrawoutput.index('kernel')+2]
+			self.analysed_data["image_info"]["kernel version"] = kernel_version
 			busyboxloc = f"{self.exf}/squashfs-root/bin/busybox"
 			output = subprocess.run(['readelf', '-h',busyboxloc], stdout=subprocess.PIPE).stdout.decode('utf-8')
 			output = output.split('\n')
@@ -130,7 +130,7 @@ class Firmware():
 					self.analysed_data["image_info"]["OS version"] = " ".join(output[i][1:])
 					os = " ".join(output[i][1:])
 					print(f"OS version : {os}")
-					print(f"kernal version : {kernal_version}")
+					print(f"kernel version : {kernel_version}")
 				elif 'Machine' in output[i][0]:
 					self.analysed_data["image_info"]['Architecture'] = " ".join(output[i][1:])
 					arc = " ".join(output[i][1:])
