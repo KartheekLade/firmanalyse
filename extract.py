@@ -9,7 +9,7 @@ import sys
 try:
 	import shutil
 except:
-	os.system("pip3 install binwalk")
+	os.system("pip3 install shutil")
 	import shutil	
 
 try:
@@ -145,7 +145,7 @@ class Firmware():
 		with open(f"{self.firmware_file}_output.json",'w+') as json_file:
 			json_file.write(json_str)
 
-	def smartrun(self):
+	def process(self):
 		self.reset()
 		self.extract()
 		self.run_analysis()
@@ -155,5 +155,5 @@ class Firmware():
 
 if __name__ == "__main__":
 	f = Firmware(sys.argv[1])
-	f.smartrun()
+	f.process()
 
