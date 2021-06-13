@@ -12,17 +12,17 @@ The requrements are,
 -scanelf,
 
 
-##Information Needed:
+## Information Needed:
 - OS Version.
 - Processor Architecture.
 - List of Binary files with Name, Path, Attributes & their Permissions.
 - Binary file analysis. (EXC or Lib{static/dynamic}, PIE)
 
-##Working on:
+## Working on:
 - How to find CVE's based on binary file.
 
-##Worked on:
---- Write a extractor code using binwalk.---
---- automate Information gathering.---
---- collect and format the information.---
---- add Json feature.---
+## Worked on:
+- Write a extractor code using binwalk.
+- automate Information gathering.
+- collect and format the information.
+- add Json feature.
