@@ -8,8 +8,8 @@ and output's information on terminal and in Json format, using:
 - json
 
 The requrements are,
--readelf,
--scanelf,
+- readelf,
+- scanelf,
 
 
 ## Information Needed:
