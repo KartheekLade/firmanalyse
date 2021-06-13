@@ -22,7 +22,7 @@ The requrements are,
 - How to find CVE's based on binary file.
 
 ##Worked on:
-- Write a extractor code using binwalk.
-- automate Information gathering.
-- collect and format the information.
-- add Json feature.
+--- Write a extractor code using binwalk.---
+--- automate Information gathering.---
+--- collect and format the information.---
+--- add Json feature.---
