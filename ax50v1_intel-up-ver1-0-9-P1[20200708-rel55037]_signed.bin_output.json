@@ -1,0 +1,4309 @@
+{
+    "firmware_file": "ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin",
+    "image_info": {
+        "filesystem_type": "Squashfs",
+        "Architecture": "MIPS R3000",
+        "OS version": "UNIX - System V",
+        "kernal version": "3.10.1"
+    },
+    "binary_file_list": [
+        {
+            "name": "libfirewallnat.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libfirewallnat.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libacl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libacl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libdeviceinfo.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libdeviceinfo.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsyssl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libsyssl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libuser.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libuser.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmultiwan.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libmultiwan.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libvendorCfg.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libvendorCfg.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libqos.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libqos.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libautowan.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libautowan.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libclient.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libclient.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libipv6.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libipv6.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libguestaccess.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libguestaccess.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libupgrade.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libupgrade.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libdevprioritization.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libdevprioritization.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcw.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libcw.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsyslogng.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libsyslogng.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libdiagnostics.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libdiagnostics.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libusbhosts.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libusbhosts.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "liblanservices.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/liblanservices.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libdyndns.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libdyndns.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnetwork.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libnetwork.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmcastservices.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libmcastservices.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmanagementserver.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libmanagementserver.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libwms.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libwms.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libupnp.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libupnp.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libwlan.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libwlan.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libwisp.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libwisp.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libethsl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/servd/lib/libethsl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libcapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmcastfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libmcastfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libugwhelper.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libugwhelper.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libwwanfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libwwanfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmsgapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libmsgapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libethfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libethfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libhsfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libhsfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsysapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libsysapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libutils.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libutils.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libswitch.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libswitch.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libppa.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libppa.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libppe_e.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libppe_e.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libqosipc.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libqosipc.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libqosfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libqosfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcpu_n.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/qosal/libcpu_n.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsysfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libsysfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libucihelper.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libucihelper.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcal.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libcal.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libupgfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libupgfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmptcp_policy.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libmptcp_policy.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libhelper.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/lib/libhelper.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cgigetutil",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/cgigetutil",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "wsd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/wsd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "tsd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/tsd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "fapi_wave_recoveryd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/fapi_wave_recoveryd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pad",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/pad",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "sys_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/sys_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "servd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/servd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "ppasessmgmt",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/ppasessmgmt",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "helper_test",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/helper_test",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "netlinkd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/netlinkd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "caltest",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/caltest",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "ppasessmgmtd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/ppasessmgmtd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tshelperd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/tshelperd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "devmd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/devmd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "capitest",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/capitest",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "csd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/csd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "mcast_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/mcast_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "qos_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/qos_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "qosd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/qosd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "wwancli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/wwancli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "dcd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/dcd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "hs_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/hs_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "urlfilterd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/usr/sbin/urlfilterd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "logserver",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/logserver",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "wpa_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/wpa_cli",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "hostapd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/hostapd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "wpa_passphrase",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/wpa_passphrase",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ppmd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/ppmd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pm_util",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/pm_util",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mtlk_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/mtlk_cli",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "BclSockServer",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/BclSockServer",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "dutserver",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/dutserver",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "polld",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/polld",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "mtdump",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/mtdump",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "hostapd_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/hostapd_cli",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "drvhlpr",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/drvhlpr",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "wpa_supplicant",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/bin/wpa_supplicant",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libfapiwave.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/lib/libfapiwave.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mtlk.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/lib/modules/3.10.104/net/mtlk.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "mtlkroot.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/lib/modules/3.10.104/net/mtlkroot.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cgi",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/www/cgi/cgi",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "ppacmd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/sbin/ppacmd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "readchip",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/opt/lantiq/sbin/readchip",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uuidgen",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/uuidgen",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ras2tiff",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ras2tiff",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cloud-https",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/cloud-https",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "openssl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/openssl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tdts_udb.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/tdts_udb.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libshn_utils.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/libshn_utils.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "shn_ctrl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/shn_ctrl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "sample.bin",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/sample.bin",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "libopenlib.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/libopenlib.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "libshn_pctrl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/libshn_pctrl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "liblicop.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/liblicop.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "libtdts_ctrl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/libtdts_ctrl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "wred_set_conf",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/wred_set_conf",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "wred",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/wred",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "tcd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/tcd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "tdts_udbfw.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/tdts_udbfw.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "tdts.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/tdts.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "gen_lic",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/gen_lic",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "wred_set_wbl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/wred_set_wbl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "dcd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/dcd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "tdts_ctrl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm-shn/tdts_ctrl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "ppm2tiff",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ppm2tiff",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "rgb2ycbcr",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/rgb2ycbcr",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffcp",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffcp",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiff2rgba",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiff2rgba",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffcmp",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffcmp",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffset",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffset",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pal2rgb",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/pal2rgb",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "djpeg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/djpeg",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ftpcount",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ftpcount",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "factory_reset",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/factory_reset",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "flock",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/flock",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "setterm",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/setterm",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "smartipd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/smartipd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tm_shn",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tm_shn",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iwinfo",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/iwinfo",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ledcli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ledcli",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "curl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/curl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "switch_led",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/switch_led",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cjpeg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/cjpeg",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "jshn",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/jshn",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "namei",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/namei",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "logger",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/logger",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ntfs-3g.usermap",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ntfs-3g.usermap",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "getopt",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/getopt",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "look",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/look",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ftptop",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ftptop",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "jpegtran",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/jpegtran",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "strace",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/strace",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cloud-pfclient",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/cloud-pfclient",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "client_mgmt",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/client_mgmt",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "resolveip",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/resolveip",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "bmp2tiff",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/bmp2tiff",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "speed-test",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/speed-test",
+            "type": "ET_EXEC",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "wall",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/wall",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiff2bw",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiff2bw",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "lua",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/lua",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "switch_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/switch_cli",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ntfs-3g",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ntfs-3g",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ledctrl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ledctrl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "gif2tiff",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/gif2tiff",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "rename",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/rename",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "wportalctrl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/wportalctrl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiff2pdf",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiff2pdf",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tdb",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tdb",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "luac",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/luac",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "thumbnail",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/thumbnail",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffmedian",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffmedian",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffdither",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffdither",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "zic",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/zic",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tmpServer",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tmpServer",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "luarsa_keys_gen",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/luarsa_keys_gen",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "afppasswd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/afppasswd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tddp",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tddp",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffinfo",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffinfo",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ntfs-3g.probe",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ntfs-3g.probe",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "script",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/script",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cloud-brd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/cloud-brd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffdump",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffdump",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "raw2tiff",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/raw2tiff",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "nvrammanager",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/nvrammanager",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffsplit",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffsplit",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mac-oui",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/mac-oui",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ftpwho",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ftpwho",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "lowntfs-3g",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/lowntfs-3g",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cal",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/cal",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "whereis",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/whereis",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ntfs-3g.secaudit",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/ntfs-3g.secaudit",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mpstat",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/mpstat",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "scriptreplay",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/scriptreplay",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mcookie",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/mcookie",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiff2ps",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiff2ps",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cloud-client",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/cloud-client",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "lspci",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/lspci",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tiffcrop",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/tiffcrop",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "fax2tiff",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/fax2tiff",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "fax2ps",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/bin/fax2ps",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libexif.so.12.3.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libexif.so.12.3.1",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uhttpd_ubus.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uhttpd_ubus.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "liblzo2.so.2.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/liblzo2.so.2.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsysapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libsysapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libvorbis.so.0.4.3",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libvorbis.so.0.4.3",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libiptext6.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libiptext6.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libutils.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libutils.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "liblua.so.5.1.4",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/liblua.so.5.1.4",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libjpeg.so.62.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libjpeg.so.62.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libezxml.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libezxml.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcurl.so.4.3.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libcurl.so.4.3.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pptpd-logwtmp.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/pptpd/pptpd-logwtmp.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsqlite3.so.0.8.6",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libsqlite3.so.0.8.6",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libintl.so.8.1.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libintl.so.8.1.1",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "fapi_wlan_daemon",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/fapi_wlan_daemon",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "libiptext4.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libiptext4.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmcastfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libmcastfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsafec-1.0.so.1.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libsafec-1.0.so.1.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libpolarssl.so.1.2.12",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libpolarssl.so.1.2.12",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libip6tc.so.0.1.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libip6tc.so.0.1.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libstdc++.so.6",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libstdc++.so.6",
+            "type": "ET_DYN",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "libuuid.so.1.3.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libuuid.so.1.3.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnetconf.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnetconf.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-rw-r--",
+            "pie": false
+        },
+        {
+            "name": "libsafec-1.0.so.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libsafec-1.0.so.1",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libpanel.so.5.7",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libpanel.so.5.7",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libvorbisfile.so.3.3.2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libvorbisfile.so.3.3.2",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libFLAC.so.8.2.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libFLAC.so.8.2.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libntfs-3g.so.86.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libntfs-3g.so.86.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libavformat.so.54.6.100",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libavformat.so.54.6.100",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libform.so.5.7",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libform.so.5.7",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libiptext.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libiptext.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libgcrypt.so.11.7.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libgcrypt.so.11.7.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnl-genl-3.so.200",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnl-genl-3.so.200",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libiconv.so.2.4.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libiconv.so.2.4.0",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libethfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libethfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcrypto.so.1.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libcrypto.so.1.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libmount.so.1.1.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libmount.so.1.1.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uams_guest.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uams/uams_guest.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uams_dhx_passwd.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uams/uams_dhx_passwd.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uams_dhx2_passwd.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uams/uams_dhx2_passwd.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uams_randnum.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uams/uams_randnum.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uams_passwd.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uams/uams_passwd.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libz.so.1.2.7",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libz.so.1.2.7",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libscapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libscapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libgpg-error.so.0.7.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libgpg-error.so.0.7.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libswitch.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libswitch.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libogg.so.0.6.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libogg.so.0.6.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "meta.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/log-i18n/meta.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "en_US.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/log-i18n/en_US.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libjson.so.0.0.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libjson.so.0.0.1",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uci.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/uci.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "luaaes.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/luaaes.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "socket.so.2.0.2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/socket.so.2.0.2",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "luarsa.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/luarsa.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ssl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/ssl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubus.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/ubus.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "parser.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/luci/template/parser.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iwinfo.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/iwinfo.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "logread.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/logread.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "nixio.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/nixio.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "log.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/log.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mime.so.1.0.2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/lua/mime.so.1.0.2",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnl-3.so.200",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnl-3.so.200",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libppa.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libppa.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libppe_e.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libppe_e.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libexpat.so.1.5.2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libexpat.so.1.5.2",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libavutil.so.51.54.100",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libavutil.so.51.54.100",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libavcodec.so.54.23.100",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libavcodec.so.54.23.100",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libvorbisenc.so.2.0.6",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libvorbisenc.so.2.0.6",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libdaemon.so.0.5.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libdaemon.so.0.5.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libqosipc.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libqosipc.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libblkid.so.1.1.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libblkid.so.1.1.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libasound.so.2.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libasound.so.2.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnetfilter_conntrack.so.3.1.3",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnetfilter_conntrack.so.3.1.3",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libbz2.so.1.0.6",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libbz2.so.1.0.6",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libxtables.so.10.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libxtables.so.10.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsysfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libsysfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libipt_TRIGGER.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/iptables/libipt_TRIGGER.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libipt_LOOPBACKDNAT.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/iptables/libipt_LOOPBACKDNAT.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libxt_httphost.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/iptables/libxt_httphost.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libxt_layer7.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/iptables/libxt_layer7.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libxt_CONNEXTMARK.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/iptables/libxt_CONNEXTMARK.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libifaddrs.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libifaddrs.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libnl-3.so.200.20.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnl-3.so.200.20.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libatalk.so.17.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libatalk.so.17.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libavahi-core.so.7.0.2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libavahi-core.so.7.0.2",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "liblog.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/liblog.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnl-tiny.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnl-tiny.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libledctrl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libledctrl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnfnetlink.so.0.2.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnfnetlink.so.0.2.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libfdk-aac.so.0.0.2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libfdk-aac.so.0.0.2",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libxml2.so.2.7.8",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libxml2.so.2.7.8",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libreg.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libreg.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libqosfapi.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libqosfapi.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libiwinfo.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libiwinfo.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libtiff.so.5.2.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libtiff.so.5.2.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libnl-genl-3.so.200.20.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libnl-genl-3.so.200.20.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libfapiwlancommon.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libfapiwlancommon.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libpcap.so.1.1.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libpcap.so.1.1.1",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libip4tc.so.0.1.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libip4tc.so.0.1.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uhttpd_tls.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/uhttpd_tls.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcpu_n.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libcpu_n.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libmenu.so.5.7",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libmenu.so.5.7",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libavdevice.so.54.0.100",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libavdevice.so.54.0.100",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libdb-4.8.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libdb-4.8.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libncurses.so.5.7",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libncurses.so.5.7",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libhelper.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libhelper.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libavahi-common.so.3.5.3",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libavahi-common.so.3.5.3",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libiw.so.29",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libiw.so.29",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libid3tag.so.0.3.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libid3tag.so.0.3.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libssl.so.1.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/lib/libssl.so.1.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "iwgetid",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iwgetid",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "proftpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/proftpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mem",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/mem",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "vpn_mgmt",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/vpn_mgmt",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "sysmond",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/sysmond",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "nandwrite",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/nandwrite",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubiupdatevol",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ubiupdatevol",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "afpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/afpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "nanddump",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/nanddump",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pppoe-discovery",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/pppoe-discovery",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "usb_sync",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/usb_sync",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cnid_dbd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/cnid_dbd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "conntrackd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/conntrackd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "conntrack",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/conntrack",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pptpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/pptpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "partx",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/partx",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubimkvol",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ubimkvol",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "usbshare",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/usbshare",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iperf",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iperf",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubinfo",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ubinfo",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uboot_env",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/uboot_env",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "connmode",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/connmode",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "classcfg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/classcfg",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "dhcp6s",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/dhcp6s",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ifcfg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ifcfg",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "tfstats",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/tfstats",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cnid_metad",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/cnid_metad",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "sys_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/sys_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "ping6",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ping6",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "delpart",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/delpart",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "conn-indicator",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/conn-indicator",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "minidlnad",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/minidlnad",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "imbd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/imbd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "nrd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/nrd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mcastd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/mcastd",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "bpalogin",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/bpalogin",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pppd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/pppd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "openvpn",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/openvpn",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "logd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/logd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "addpart",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/addpart",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "qoscfg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/qoscfg",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "xl2tpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/xl2tpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iwconfig",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iwconfig",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "samba_multicall",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/samba_multicall",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iptvc",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iptvc",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "fsck_hfs",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/fsck_hfs",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ntpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ntpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tsched",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/tsched",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ppacmd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ppacmd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "read_img",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/read_img",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "qcfg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/qcfg",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "ftpshut",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ftpshut",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "fapi_wlan_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/fapi_wlan_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "iwpriv",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iwpriv",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "pptpctrl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/pptpctrl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "radvdctl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/radvdctl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iwspy",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iwspy",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "logx",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/logx",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "dnslookup",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/dnslookup",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "avahi-daemon",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/avahi-daemon",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uuidd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/uuidd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "modprobe",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/modprobe",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "qos_cli",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/qos_cli",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "tc",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/tc",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "radvd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/radvd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uhttpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/uhttpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iw",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iw",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "iwlist",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/iwlist",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubiattach",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ubiattach",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubirmvol",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ubirmvol",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "radvdump",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/radvdump",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "upgrade",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/upgrade",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "6rdcalc",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/6rdcalc",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "scapiutil",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/scapiutil",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "powermanager",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/powermanager",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "flash_erase",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/flash_erase",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "dnsmasq",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/dnsmasq",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "xtables-multi",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/xtables-multi",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "wps-socket",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/wps-socket",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubirename",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ubirename",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "fapi_wlan_dbXml",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/fapi_wlan_dbXml",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": true
+        },
+        {
+            "name": "bcrelay",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/bcrelay",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ip",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/ip",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "brctl",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/brctl",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "dropbear",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/dropbear",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "dhcp6c",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/dhcp6c",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "miniupnpd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/usr/sbin/miniupnpd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "umount",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/umount",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mountpoint",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/mountpoint",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cal_cbr",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/cal_cbr",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "rftest",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/rftest",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "busybox",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/busybox",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "lsblk",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/lsblk",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubus",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/ubus",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mount",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/mount",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "findmnt",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/findmnt",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "opkg",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/bin/opkg",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ld-uClibc-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/ld-uClibc-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libshn_utils.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libshn_utils.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libubus.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libubus.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "scsi_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/scsi_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "v4l_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/v4l_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mtd_probe",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/mtd_probe",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ata_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/ata_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "usb_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/usb_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "input_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/input_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "cdrom_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/cdrom_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "path_id",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/path_id",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "accelerometer",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/udev/accelerometer",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libopenlib.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libopenlib.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libgcc_s.so.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libgcc_s.so.1",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libshn_pctrl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libshn_pctrl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libssp.so.0.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libssp.so.0.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "liblicop.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/liblicop.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libutil-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libutil-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libtdts_ctrl.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libtdts_ctrl.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libfstools.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libfstools.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libubox.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libubox.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "librpc.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/librpc.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libatm.so.1.0.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libatm.so.1.0.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libblobmsg_json.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libblobmsg_json.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ubus.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/lua/ubus.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libjson-c.so.2.0.1",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libjson-c.so.2.0.1",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libudev.so.0.12.0",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libudev.so.0.12.0",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libuci.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libuci.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libcrypt-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libcrypt-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libvalidate.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libvalidate.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libdl-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libdl-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "tfat.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/tuxera-fs/tfat.ko",
+            "type": "ET_REL",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "tntfs.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/tuxera-fs/tntfs.ko",
+            "type": "ET_REL",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "thfsplus.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/tuxera-fs/thfsplus.ko",
+            "type": "ET_REL",
+            "permissions": "-rwxrwxr-x",
+            "pie": false
+        },
+        {
+            "name": "ip6table_mangle.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6table_mangle.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cls_route.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/cls_route.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "iptable_raw.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/iptable_raw.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "act_skbedit.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/act_skbedit.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ipt_TRIGGER.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ipt_TRIGGER.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_rtsp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_rtsp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_pptp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_pptp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_sip.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_sip.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "wportal.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/wportal.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_ipv6header.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_ipv6header.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_hbh.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_hbh.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6_tables.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6_tables.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nfnetlink.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nfnetlink.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_h323.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_h323.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_proto_gre.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_proto_gre.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_eui64.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_eui64.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "gre.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/gre.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_tftp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_tftp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_ftp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_ftp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_connbytes.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/xt_connbytes.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_codel.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/sch_codel.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_netlink.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_netlink.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_sip.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_sip.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_ftp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_ftp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_comment.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/xt_comment.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ppp_async.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ppp_async.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "em_u32.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/em_u32.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_ingress.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/sch_ingress.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "domain_redirect.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/domain_redirect.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "domain_libs.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/domain_libs.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "domain_dns.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/domain_dns.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "crc-ccitt.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/crc-ccitt.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6table_filter.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6table_filter.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sit.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/sit.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cls_tcindex.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/cls_tcindex.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "usb-poll.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/usb-poll.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "liblog.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/liblog.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "compat_xtables.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/compat_xtables.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_recent.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/xt_recent.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_hfsc.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/sch_hfsc.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_pptp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_pptp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "tun.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/tun.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_rt.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_rt.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ipv6-pass-through.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ipv6-pass-through.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_LOOPBACKDNAT.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/xt_LOOPBACKDNAT.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "domain_tip.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/domain_tip.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_nat_rtsp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_nat_rtsp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_mh.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_mh.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_httphost.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/xt_httphost.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_tftp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_tftp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cls_flow.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/cls_flow.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_h323.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_h323.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "br-filter.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/br-filter.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_REJECT.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_REJECT.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_CT.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/xt_CT.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "tunnel6.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/tunnel6.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_gre.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip_gre.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "statistics.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/statistics.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6t_frag.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6t_frag.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "pptp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/pptp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nf_conntrack_proto_gre.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/nf_conntrack_proto_gre.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "iptvx.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/iptvx.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6_tunnel.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/iplatform/ip6_tunnel.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_ipportnet.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_ipportnet.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_NFQUEUE.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_NFQUEUE.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nls_cp437.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/nls_cp437.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xhci-hcd.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xhci-hcd.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_ipport.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_ipport.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "pecostat_noIRQ.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/pecostat_noIRQ.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cpuload.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cpuload.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_pae_hal.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_pae_hal.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_set.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_set.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "drv_event_logger.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/drv_event_logger.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ppa_api_sw_accel_mod.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ppa_api_sw_accel_mod.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_bitmap_port.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_bitmap_port.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_bitmap_ipmac.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_bitmap_ipmac.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_directpath_datapath.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_directpath_datapath.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xfrm6_mode_transport.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xfrm6_mode_transport.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cdc_mbim.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cdc_mbim.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "act_ipt.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/act_ipt.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ah6.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ah6.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "i2c-dev.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/i2c-dev.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "jbd2.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/jbd2.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_HL.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_HL.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "esp6.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/esp6.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "gpio-button-hotplug.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/gpio-button-hotplug.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ahci.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ahci.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cls_rsvp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cls_rsvp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ipcomp6.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ipcomp6.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "em_nbyte.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/em_nbyte.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ext3.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ext3.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "dc_mode0-xrx500.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/dc_mode0-xrx500.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_connlimit.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_connlimit.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_tmu_hal_drv.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_tmu_hal_drv.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_eth_drv_xrx500.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_eth_drv_xrx500.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "bonding.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/bonding.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "macvlan.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/macvlan.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_teql.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/sch_teql.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ext4.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ext4.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "l2nat.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/l2nat.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "fuse.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/fuse.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_layer7.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_layer7.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cdc-wdm.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cdc-wdm.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_bitmap_ip.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_bitmap_ip.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_esp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_esp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "mcast_helper.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/mcast_helper.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "em_cmp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/em_cmp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_mpe_hal_drv.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_mpe_hal_drv.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cdc_ncm.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cdc_ncm.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ppa_api.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ppa_api.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_list_set.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_list_set.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_tbf.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/sch_tbf.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_statistic.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_statistic.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xfrm6_mode_tunnel.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xfrm6_mode_tunnel.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "directconnect_datapath.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/directconnect_datapath.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ipt_ah.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ipt_ah.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_gred.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/sch_gred.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "input-polldev.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/input-polldev.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_dp_test.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_dp_test.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_temp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_temp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cdc-acm.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cdc-acm.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libsrtp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/libsrtp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xfrm6_mode_beet.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xfrm6_mode_beet.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libahci.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/libahci.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ipt_ECN.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ipt_ECN.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "jbd.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/jbd.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cdc_ether.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cdc_ether.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip6_gre.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip6_gre.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "sch_netem.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/sch_netem.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_netport.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_netport.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "drv_ifxos.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/drv_ifxos.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "mbcache.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/mbcache.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xfrm6_tunnel.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xfrm6_tunnel.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "pecoevent_collect.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/pecoevent_collect.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_net.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_net.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "prio_mac.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/prio_mac.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "usblp.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/usblp.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "usbnet.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/usbnet.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nls_iso8859-1.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/nls_iso8859-1.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "nfnetlink_queue.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/nfnetlink_queue.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_ecn.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_ecn.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ppa_api_tmplbuf.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ppa_api_tmplbuf.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "em_meta.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/em_meta.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltqusb_host.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltqusb_host.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_ipportip.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_ipportip.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_ip.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_ip.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "xt_hl.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/xt_hl.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cls_basic.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cls_basic.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ip_set_hash_netiface.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ip_set_hash_netiface.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "voip_timer_driver.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/voip_timer_driver.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "em_text.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/em_text.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "ltq_pmcu.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/ltq_pmcu.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cls_rsvp6.ko",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/modules/3.10.104/cls_rsvp6.ko",
+            "type": "ET_REL",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libuClibc-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libuClibc-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libm-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libm-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "librt-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/librt-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libsetlbf.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libsetlbf.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "libpthread-0.9.33.2.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libpthread-0.9.33.2.so",
+            "type": "ET_DYN",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "libjson_script.so",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/lib/libjson_script.so",
+            "type": "ET_DYN",
+            "permissions": "-rw-r--r--",
+            "pie": false
+        },
+        {
+            "name": "cfdisk",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/cfdisk",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "ubusd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/ubusd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "netifd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/netifd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "crda",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/crda",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "swapon",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/swapon",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mkswap",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/mkswap",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "kmodloader",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/kmodloader",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "findfs",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/findfs",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "sfdisk",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/sfdisk",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "agetty",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/agetty",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "udevadm",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/udevadm",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "hwclock",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/hwclock",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "fdisk",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/fdisk",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "uci",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/uci",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "swaplabel",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/swaplabel",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "losetup",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/losetup",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "wipefs",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/wipefs",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "udevd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/udevd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "udevtrigger",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/udevtrigger",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "blkid",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/blkid",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "hotplug2",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/hotplug2",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "mtd",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/mtd",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        },
+        {
+            "name": "regdbdump",
+            "path": "_ax50v1_intel-up-ver1-0-9-P1[20200708-rel55037]_signed.bin.extracted/squashfs-root/sbin/regdbdump",
+            "type": "ET_EXEC",
+            "permissions": "-rwxr-xr-x",
+            "pie": false
+        }
+    ]
+}
